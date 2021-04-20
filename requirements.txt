@@ -14,7 +14,7 @@ itsdangerous==1.1.0
 Jinja2==2.10.1
 Mako==1.0.13
 MarkupSafe==1.1.1
-py==1.8.0
+py==1.10.0
 pycparser==2.19
 pytest==3.0.1
 pytest-cov==2.7.1
