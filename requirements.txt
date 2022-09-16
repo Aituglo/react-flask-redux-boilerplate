@@ -12,7 +12,7 @@ GitHub-Flask==3.2.0
 gunicorn==19.9.0
 itsdangerous==1.1.0
 Jinja2==2.10.1
-Mako==1.0.13
+Mako==1.2.2
 MarkupSafe==1.1.1
 py==1.8.0
 pycparser==2.19
